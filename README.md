@@ -1,2 +1,2 @@
 # Image-colorization-using-GAN
-Decolorized/grayscale images are colored using cGAN.
+Black and white images are colored using cGAN.
